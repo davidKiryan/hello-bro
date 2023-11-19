@@ -1,0 +1,23 @@
+h1 {
+    margin-bottom: 5px;
+    font-size: 32px;
+    color: rgb(255, 115, 0);
+}
+
+p {
+    margin-top: 2px;
+    font-size: 21px;
+    font-weight: bold;
+    color: rgb(117, 1, 107);
+} 
+
+.output {
+    color: rgb(255, 115, 0);
+    font-size: 19px;
+    font-weight: bold;
+}
+
+button {
+    font-size: 13px;
+    margin-bottom: 15px;
+}
